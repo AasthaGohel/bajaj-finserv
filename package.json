@@ -1,0 +1,25 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AasthaGohel/bajaj-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AasthaGohel/bajaj-exam/issues"
+  },
+  "homepage": "https://github.com/AasthaGohel/bajaj-exam#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
